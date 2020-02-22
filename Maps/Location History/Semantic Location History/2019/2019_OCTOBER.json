@@ -1,0 +1,79 @@
+{
+  "timelineObjects" : [ {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 400537871,
+        "longitudeE7" : -763109563,
+        "placeId" : "ChIJtZ3v54UkxokRKH0NKw_vmRQ",
+        "address" : "106 Manheim Ave\nLancaster, PA 17603\nUSA",
+        "name" : "106 Manheim Ave",
+        "semanticType" : "TYPE_HOME",
+        "sourceInfo" : {
+          "deviceTag" : -1927565670
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1571424588777",
+        "endTimestampMs" : "1571442286980"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 400537933,
+      "centerLngE7" : -763108967
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 400537871,
+        "longitudeE7" : -763109563,
+        "sourceInfo" : {
+          "deviceTag" : -1927565670
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 400537871,
+        "longitudeE7" : -763109563,
+        "sourceInfo" : {
+          "deviceTag" : -1927565670
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1571442286980",
+        "endTimestampMs" : "1571515843977"
+      },
+      "distance" : 5256,
+      "activityType" : "WALKING",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 51.4679716365608
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 44.51525462311074
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 1.3844227990532467
+      } ]
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 400537871,
+        "longitudeE7" : -763109563,
+        "placeId" : "ChIJtZ3v54UkxokRKH0NKw_vmRQ",
+        "address" : "106 Manheim Ave\nLancaster, PA 17603\nUSA",
+        "name" : "106 Manheim Ave",
+        "semanticType" : "TYPE_HOME",
+        "sourceInfo" : {
+          "deviceTag" : -1927565670
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1571515843977",
+        "endTimestampMs" : "1571530167652"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 400538242,
+      "centerLngE7" : -763108469
+    }
+  } ]
+}

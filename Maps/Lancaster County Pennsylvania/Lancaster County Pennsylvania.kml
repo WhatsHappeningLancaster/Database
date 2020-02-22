@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Lancaster County Pennsylvania</name>
+    <NetworkLink>
+      <name>Untitled map</name>
+      <Link>
+        <href><![CDATA[http://www.google.com/maps/d/u/0/kml?forcekml=1&mid=1_x-TfFICzGmDrpJFltD_pCS5qpQBc1Yl&lid=6IYjEBke6KE]]></href>
+      </Link>
+    </NetworkLink>
+  </Document>
+</kml>
